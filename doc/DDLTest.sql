@@ -167,3 +167,6 @@ SELECT Patrons.last_name, Patrons.patron_id, Patrons.location FROM Patrons ;
 -- 
 -- ERRORS                                  12
 -- WARNINGS                                 0
+
+
+-- new comment (test purpose) for new commit
