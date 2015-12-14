@@ -184,5 +184,11 @@ SELECT Patrons.last_name, Patrons.patron_id, Patrons.location FROM Patrons ;
 -- 17:56
 
 -- Added new test line with SQL Dev
+
 -- 151214 16:22
  Added line through SQL Dev
+
+-- 151214 16:22
+
+
+-- Add again 151214 17:43
