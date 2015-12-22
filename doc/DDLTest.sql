@@ -196,3 +196,6 @@ SELECT Patrons.last_name, Patrons.patron_id, Patrons.location FROM Patrons ;
 
 -- Added again new test line
 -- 151222 16:49
+
+-- Added again new test line
+-- 151222 17:12
