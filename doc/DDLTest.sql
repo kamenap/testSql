@@ -171,6 +171,3 @@ SELECT Patrons.last_name, Patrons.patron_id, Patrons.location FROM Patrons ;
 
 -- new comment (test purpose) for new commit
 -- new second comment (test purpose) for second new commit
-
-Added line SQL Developer
-Added line web
