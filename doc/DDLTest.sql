@@ -168,7 +168,7 @@ SELECT Patrons.last_name, Patrons.patron_id, Patrons.location FROM Patrons ;
 -- ERRORS                                  12
 -- WARNINGS                                 0
 
-
+-- NEW Comment
 -- new comment (test purpose) for new commit
 -- new second comment (test purpose) for second new commit
 
@@ -178,3 +178,5 @@ SELECT Patrons.last_name, Patrons.patron_id, Patrons.location FROM Patrons ;
 -- Test for incoming changes
 -- Another test for incoming changes
 -- Yet another test for incoming changes
+
+-- Test new line 151223 
