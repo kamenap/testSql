@@ -169,6 +169,7 @@ SELECT Patrons.last_name, Patrons.patron_id, Patrons.location FROM Patrons ;
 -- WARNINGS                                 0
 
 -- SQL Dev comment
+-- NEW Comment
 -- new comment (test purpose) for new commit
 -- new second comment (test purpose) for second new commit
 
@@ -181,3 +182,5 @@ SELECT Patrons.last_name, Patrons.patron_id, Patrons.location FROM Patrons ;
 -- COMMENT ADDED with sql dev
 
 --
+
+-- Test new line 151223 
